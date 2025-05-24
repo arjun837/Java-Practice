@@ -12,3 +12,4 @@ public class dowhileloop {
 		
 	}
 }
+// started practicing after almost 3 months and above example is of do while loop using it I have print numbers from 1 to 10.
